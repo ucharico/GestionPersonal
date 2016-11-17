@@ -1,0 +1,11 @@
+C:\proyectos\ta03\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.dll
+C:\proyectos\ta03\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.pdb
+C:\proyectos\ta03\MiniCalc\ClaseEntero\obj\Debug\ClaseEntero.dll
+C:\proyectos\ta03\MiniCalc\ClaseEntero\obj\Debug\ClaseEntero.pdb
+C:\proyectos\TA03\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.dll.CodeAnalysisLog.xml
+C:\proyectos\TA03\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.dll.lastcodeanalysissucceeded
+D:\App_visualstudio\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.dll
+D:\App_visualstudio\MiniCalc\ClaseEntero\bin\Debug\ClaseEntero.pdb
+D:\App_visualstudio\MiniCalc\ClaseEntero\obj\Debug\ClaseEntero.csprojResolveAssemblyReference.cache
+D:\App_visualstudio\MiniCalc\ClaseEntero\obj\Debug\ClaseEntero.dll
+D:\App_visualstudio\MiniCalc\ClaseEntero\obj\Debug\ClaseEntero.pdb

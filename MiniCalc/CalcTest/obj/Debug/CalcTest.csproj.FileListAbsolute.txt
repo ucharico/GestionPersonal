@@ -1,0 +1,9 @@
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\CalcTest.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\CalcTest.pdb
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.dll
+C:\proyectos\ta03\MiniCalc\CalcTest\obj\Debug\CalcTest.pdb
+C:\proyectos\TA03\MiniCalc\CalcTest\bin\Debug\FrmMiniCalc.exe
+C:\proyectos\TA03\MiniCalc\CalcTest\bin\Debug\FrmMiniCalc.pdb

@@ -1,0 +1,8 @@
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\bin\Debug\FrmMiniCalc.exe.config
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\bin\Debug\FrmMiniCalc.exe
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\bin\Debug\FrmMiniCalc.pdb
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\obj\Debug\FrmMiniCalc.csprojResolveAssemblyReference.cache
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\obj\Debug\FrmMiniCalc.Properties.Resources.resources
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\obj\Debug\FrmMiniCalc.csproj.GenerateResource.Cache
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\obj\Debug\FrmMiniCalc.exe
+C:\proyectos\ta03\MiniCalc\FrmMiniCalc\obj\Debug\FrmMiniCalc.pdb
